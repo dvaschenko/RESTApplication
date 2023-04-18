@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "r+UivEDVEEsyoz5RZ3wNTx2MDFNQp9ZMnv9mQDhPVpI=",
+  "Source": "RESTApplication",
+  "BasePath": "_content/RESTApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
